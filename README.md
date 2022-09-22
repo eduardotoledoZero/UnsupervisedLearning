@@ -18,7 +18,7 @@ In this case-workshop I apply PCA analysis  in the study of quality of life in d
    - Recreation
    - Economy
 
-See details in <https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/pca/Life%20Quality%20Dimensionality%20in%20Cities.ipynb>
+[See details pca analysis] (https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/pca/Life%20Quality%20Dimensionality%20in%20Cities.ipynb)
 
 
 
