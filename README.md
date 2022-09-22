@@ -1,4 +1,4 @@
-# Unsupervised Learning
+# Unsupervised Learning , Data Minning and Recommenders
 
 ## Objective
 
@@ -31,3 +31,26 @@ In this workshop I will use the database known as Labeled Faces in the Wild (LFW
 The base contains more than 13,000 images of faces collected from the web and each face has been tagged with the name of the person represented. A subset of 1,680 of the people photographed have two or more different photos in the data set.
 
 [See details SVD](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/single%20value%20decomposition/facial%20recognition%20with%20SVD.ipynb)
+
+
+## Category: Clustering by KMeans and KMedoids
+
+
+In this case-workshop I apply K-means and K-medoids to group faces of individuals. We will use the database known as Caras Olivetti. This base contains ten different images of 40 different people. For some people, images were taken at different times, varying lighting, facial expressions (eyes open/closed, smiling/not smiling), and facial details (glasses/no glasses). All images were taken against a dark homogeneous background with subjects in an upright frontal position (with tolerance for some lateral movement). This base is included in the scikit-learn library and was provided by T&T Laboratories Cambridge for the academic community to use for evaluating predictive models.
+
+[See details Clustering](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/k-means%20and%20k-medoids/facial%20recognition%20with%20K-Means%20and%20K-Medoids.ipynb)
+
+
+
+## Category: Hierarchical clustering and dbscan
+
+
+The objective of this case-workshop is to analyze a  database about customers of a store and seek to find groups of customers that allow the generation of targeted marketing strategies. The database is located in the Laboratory Files in the data folder and has 200 observations and 5 variables:
+
+Id_Client: client identifier.
+Gender: customer's gender: Female, Male
+Age: age in years
+Income: annual income
+Spending_Score: is a variable that measures how often a customer buys in the store, with 100 being the highest score.
+
+[See details Clustering](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/hierarchical%20clustering%20and%20dbscan/Customers%20Segmentation.ipynb)
