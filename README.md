@@ -47,10 +47,19 @@ In this case-workshop I apply K-means and K-medoids to group faces of individual
 
 The objective of this case-workshop is to analyze a  database about customers of a store and seek to find groups of customers that allow the generation of targeted marketing strategies. The database is located in the Laboratory Files in the data folder and has 200 observations and 5 variables:
 
-Id_Client: client identifier.
-Gender: customer's gender: Female, Male
-Age: age in years
-Income: annual income
-Spending_Score: is a variable that measures how often a customer buys in the store, with 100 being the highest score.
+- Id_Client: client identifier.
+- Gender: customer's gender: Female, Male
+- Age: age in years
+- Income: annual income
+- Spending_Score: is a variable that measures how often a customer buys in the store, with 100 being the highest score.
 
 [See details Clustering](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/hierarchical%20clustering%20and%20dbscan/Customers%20Segmentation.ipynb)
+
+
+
+## Category: Collaborative filtering recommender systems : Music reommender
+
+
+The goal of this case-workshop is to build a Music recommendation system using Last.fm data openly provided by grouplens to: "advance the theory and practice of social computing by building and understanding music recommendation systems". ) used by real people."
+
+[See details](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/recomendation%20system/Music_Recommender.ipynb)
