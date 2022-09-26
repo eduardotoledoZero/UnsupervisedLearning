@@ -62,7 +62,7 @@ The objective of this case-workshop is to analyze a  database about customers of
 
 The goal of this case-workshop is to build a Music recommendation system using Last.fm data openly provided by grouplens to: "advance the theory and practice of social computing by building and understanding music recommendation systems". ) used by real people."
 
-[See details]()
+[See details](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/collaborative%20recommendation%20system/Music_Recommender.ipynb)
 
 
 ## Category: recommender systems  based on contents: Blog recommender
