@@ -57,9 +57,15 @@ The objective of this case-workshop is to analyze a  database about customers of
 
 
 
-## Category: Collaborative filtering recommender systems : Music reommender
+## Category: Collaborative filtering recommender systems : Music recommender
 
 
 The goal of this case-workshop is to build a Music recommendation system using Last.fm data openly provided by grouplens to: "advance the theory and practice of social computing by building and understanding music recommendation systems". ) used by real people."
 
-[See details](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/recomendation%20system/Music_Recommender.ipynb)
+[See details]()
+
+
+## Category: recommender systems  based on contents: Blog recommender
+
+The objective of this case-workshop is to build a recommendation system based on the content of the posts.
+[See details]()
