@@ -70,3 +70,10 @@ The goal of this case-workshop is to build a Music recommendation system using L
 The objective of this case-workshop is to build a recommendation system based on the content of the posts. 
 
 [See details](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/recommender%20system%20based%20content/Recomending%20Blog%20entries.ipynb)
+
+
+## Category: hotspots analsys by means KDE: crime in Chicago
+
+This case-workshop will use geographic data and kernel density estimation to analyze crime in Chicago
+
+[See details](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/hotspots%20analysis/crime%20in%20chicago.ipynb)
