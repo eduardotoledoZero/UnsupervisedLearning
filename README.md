@@ -77,3 +77,10 @@ The objective of this case-workshop is to build a recommendation system based on
 This case-workshop will use geographic data and kernel density estimation to analyze crime in Chicago
 
 [See details](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/hotspots%20analysis/crime%20in%20chicago.ipynb)
+
+
+## Category: hotspots analsys by means Gaussian Mixtures Model: burger master
+The Burger Master is an event created in 2016 by the *influencer* Tulio Zuluaga, better known on networks like Tulio recommends, which seeks that for a week the burger joints of each city offer their best product at a reduced price.
+
+The event has been growing and in 2022 it will spread to 21 cities in Colombia for which it is estimated that more than two million hamburgers will be sold. The objective of this case-workshop is to identify the hot spots of hamburger restaurants that competed in the city of Bogotá applying the Gaussian Mixtures model.
+[See details](https://github.com/eduardotoledoZero/unsupervised_learning/blob/main/hotspots%20analysis/crime%20in%20chicago.ipynb)
